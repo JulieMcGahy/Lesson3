@@ -1,0 +1,39 @@
+body {
+    background-color: #BBA0CA;
+}
+
+header, footer { 
+    background-color: #773344;
+    color: white;
+    padding: 10px;
+}
+
+.title {
+    font-style: italic;
+    font-weight: 400px;
+}
+
+a:link {
+    color: White;
+}
+
+a:visited {
+   color: #A3C9A8;
+}
+
+a:hover {
+    color:#1C6E8C
+}
+
+h4 {
+    color: #331E38;
+    font-style: italic; 
+}
+
+h2 {
+    color: #EEE1B3
+}
+
+ul {
+    font-weight: 200; 
+}
