@@ -1,11 +1,13 @@
 body {
     background-color: #BBA0CA;
+    font-family: 'Roboto Mono', monospace;
 }
 
 header, footer { 
     background-color: #773344;
     color: white;
     padding: 10px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .title {
@@ -28,10 +30,15 @@ a:hover {
 h4 {
     color: #331E38;
     font-style: italic; 
+    font-style: italic; 
+    text-shadow: 6px 3px 6px #EEE1B3;
 }
 
 h2 {
-    color: #EEE1B3
+    color: #EEE1B3;
+    font-family: 'Oswald', sans-serif;
+    text-shadow: 6px 3px 4px #773344; 
+    
 }
 
 ul {
